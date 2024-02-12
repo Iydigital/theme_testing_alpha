@@ -20,10 +20,10 @@
         "buttons_w9H4Jk": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "Support our KickStarter",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -35,6 +35,7 @@
         "buttons_w9H4Jk"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/waves_white_transparent.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
