@@ -6,15 +6,8 @@
         "heading_JkUi8L": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "text_QLkH4D": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "heading": "The better way to play.",
+            "heading_size": "h0"
           }
         },
         "buttons_w9H4Jk": {
@@ -31,7 +24,6 @@
       },
       "block_order": [
         "heading_JkUi8L",
-        "text_QLkH4D",
         "buttons_w9H4Jk"
       ],
       "settings": {
